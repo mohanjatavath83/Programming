@@ -6,6 +6,11 @@ public class ArraysBasics {
     public static void main(String[] args) {
 
 
-        int[] arr = new int[10];
+
+
+
+
+
+
     }
 }
