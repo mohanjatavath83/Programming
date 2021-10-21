@@ -2,8 +2,7 @@ package com.mohan.array;
 
 import java.util.Random;
 
-public class MaxElementInArray {
-
+public class SecondMaximumElementInArray {
 
     public static void main(String[] args) {
 
